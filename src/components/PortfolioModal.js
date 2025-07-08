@@ -15,7 +15,6 @@ const PortfolioModal = ({ isOpen, section, onClose }) => {
       content: `Education
 Indian Institute of Information Technology Kalyani
 Final Year Student
-Resume: https://drive.google.com/file/d/1p2vh-cEismMOL17tzAghFq1c_rFo9Q5O/view?usp=sharing
 Area of Interest
 I am deeply passionate about software development, especially in the realm of full stack web development using the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building scalable, robust, and user-centric applications that solve real-world problems. My interest lies in creating seamless user experiences, architecting efficient backend systems, and continuously learning new technologies to stay at the forefront of the ever-evolving software landscape.`
     },
